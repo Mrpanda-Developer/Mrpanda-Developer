@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dylan | 1st year CS Student  @MaasUNI ❤️ & Developer
+# 👋 Hi, I'm Dylan | 2nd year CS Student  @MaasUNI ❤️ & Developer
 
 
 `⚡ Embedded Systems` `🔐 Cybersecurity` `📊 Quantitative Finance` `🧮 Math Enthusiast`
