@@ -23,7 +23,7 @@ Security: IoT Security, Cryptography, Binary Exploitation
 Finance: Algorithmic Trading, Quantitative Analysis
 
 🏋️‍♂️ Fitness PRs
-Weighted Dips: 60kg @65kg BW (1.92x BW)
+Weighted Dips: 90kg @65kg BW (1.92x BW)
 
 Weighted Pull-ups: +40kg (61% BW)
 
