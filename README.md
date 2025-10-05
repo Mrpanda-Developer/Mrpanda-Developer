@@ -42,8 +42,8 @@ Implementing Black-Scholes variants
 Interactive linear algebra concepts
 
 📝 Academic Journey
-1st Year CS Focus:
-
+2nd Year CS Focus:
+Operating Systems
 Discrete Math
 
 Probability & Statistics
