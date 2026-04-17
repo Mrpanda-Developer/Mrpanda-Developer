@@ -12,16 +12,13 @@ int main() {
     }
     return 0;
 }
-📚 Current Projects
+
+Current Projects
 Packit team. 
 
 
-Core Interests
-Category Interests
-Programming: Low-level (C/C++), Embedded Linux, Reverse Engineering
-Math: Discrete Math, Linear Algebra, Probability (for Algo Trading)
-Security: IoT Security, Cryptography, Binary Exploitation
-Finance: Algorithmic Trading, Quantitative Analysis
+About me
+just a guy who likes: Group Theory, Analysis and breaking things
 
 🏋️‍♂️ Fitness PRs
 Weighted Dips: 90kg @65kg BW (1.92x BW)
