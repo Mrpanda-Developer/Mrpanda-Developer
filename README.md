@@ -1,14 +1,11 @@
-# Hi, I'm Dylan | 2nd year CS Student  @MaasUNI  & Developer
+# Hi, I'm Dylan | 3nd year CS Student  @MaasUNI
 `Math Enthusiast`
 
-```c
-// Current Stack
-#include <skills.h>
+
 int main() {
     while(code) {
-        write(C++, Java, C, Python);
+        write(C++, Java learning rust);
         solve(math_problems);
-        build(embedded_systems);
     }
     return 0;
 }
@@ -18,7 +15,7 @@ Packit team.
 
 
 About me
-just a guy who likes: Group Theory, Analysis and breaking things
+just a guy who likes: Group Theory and Analysis
 
 🏋️‍♂️ Fitness PRs
 Weighted Dips: 90kg @65kg BW (1.92x BW)
