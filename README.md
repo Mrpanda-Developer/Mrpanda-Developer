@@ -20,7 +20,7 @@ just a guy who likes: Group Theory and Analysis
 🏋️‍♂️ Fitness PRs
 Weighted Dips: 90kg @65kg BW (1.92x BW)
 Bench:  110kg 
-Weighted Pull-ups: +40kg (61% BW)
+Weighted Pull-ups: +42.5kg (61% BW)
 
 
 Collaboration: Open to math+code projects
