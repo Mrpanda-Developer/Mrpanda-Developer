@@ -17,13 +17,4 @@ Packit team.
 About me
 just a guy who likes: Group Theory and Analysis (also really like operating systems)
 
-🏋️‍♂️ Fitness PRs
-Weighted Dips: 90kg @65kg BW (1.92x BW)
-Bench:  110kg 
-Weighted Pull-ups: +42.5kg (61% BW)
-
-
-Collaboration: Open to math+code projects
-
-Always down for gym/math debates 
 
